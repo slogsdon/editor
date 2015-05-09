@@ -1,0 +1,3 @@
+[submodule "editor-frontend"]
+	path = priv/static
+	url = git@github.com:slogsdon/editor-frontend.git
